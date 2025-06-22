@@ -1,0 +1,12 @@
+.btn {
+    display: flex;
+    width: 420px;
+    padding: 7px 12px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: #1F75CB;
+
+    box-shadow: 0 0 0 1px #1068BF inset;
+    color: #FFFF;
+}
